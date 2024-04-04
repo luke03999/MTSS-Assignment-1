@@ -1,8 +1,10 @@
 2079249 
 2075524 
 
-Componenti
+componenti
 - processori.md
 - schede_madri.md
+
+periferiche
 
  Elettronica Padovana
